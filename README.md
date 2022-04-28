@@ -21,7 +21,8 @@
 
 ## Bannable ?
 ```js
-  * No. but your profile can get flagged and hidden
+  * No, because you are not directly botting your profile.
+  * There is no concrete proof it was u...
 ```
 
 ## Requirements
