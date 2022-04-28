@@ -15,7 +15,7 @@
 ## Why tf?
 ```js
  [1] I was bored lmao
- [2] This will be a challenge where I use different Languages and try to make it as fat as possible
+ [2] This will be a challenge where I use different Languages and try to make it as fast as possible
  [3] Road to 1m views 
 ```
 
