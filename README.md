@@ -18,6 +18,10 @@
  [2] This will be a challenge where I use different Languages and try to make it as fast as possible
  [3] Road to 1m views 
 ```
+## Will I get 1m views ?
+```js
+  * No, it gets reset if you bot it too fast
+```
 
 ## Bannable ?
 ```js
